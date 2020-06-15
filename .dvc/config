@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = /Users/chamathabeysinghe/Projects/monash/data-repo/VAE_v2
