@@ -1,0 +1,7 @@
+md5: 268bb15a6fd67e766befd478d01ae3a0
+outs:
+- md5: d0de832d052ec88317e4879bd8b76015.dir
+  path: evaluations
+  cache: true
+  metric: false
+  persist: false
